@@ -11,7 +11,12 @@ I’m currently enhancing my expertise in Azure Architecture with .NET,<br>
 
 🔗 **Connect with me:**  
   - [LinkedIn](https://linkedin.com/in/raphael-cordon)  
-  - [GitHub](https://github.com/raphaelcordon)  
+  - [GitHub](https://github.com/raphaelcordon)
+
+🌟 **Featured Projects**
+
+- [.NET Studies](https://github.com/stars/raphaelcordon/lists/net-studies) - List of small projects to practise specific functionalities and approached in C#/.Net
+- 
 
 📈 **My GitHub Stats:**
 
