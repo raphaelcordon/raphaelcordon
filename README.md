@@ -1,12 +1,14 @@
 ## Hi there, I'm Raphael Cordon! 🤓
 
-### 🤴 &nbsp; I’m currently learning: &nbsp; C#, Dot.Net, Asp.Net, Microsoft Azure.<br>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - I already studied Python, Flask, Javascript, HTML5, CSS, MySql and PostGre SQL.
+A global IT Project Manager and Software Developer, I bring over a decade of international experience, with a rich history of working in countries like Switzerland, Ireland, and beyond. Fluent in [Languages], I excel in bridging technology with business needs, leading agile teams, and driving projects to successful completion. I’m currently enhancing my expertise in Azure Architecture with .NET, complementing my strong foundation in C#, ASP.NET, Python, and more.
 
+🔗 **Connect with me:**  
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/raphael-cordon)  
+- GitHub: [Your GitHub](https://github.com/raphaelcordon)  
 
- 🧑‍💼 &nbsp; My last working place: &nbsp; International Olympic Committee (IOC) as an IT Project Manager.
+📈 **My GitHub Stats:**
 
- 📨 &nbsp; How to reach me: &nbsp; &nbsp; cordon@outlook.com
+[GitHub Stats Image]
 
 <div>
   <a href="https://github.com/raphaelcordon">
