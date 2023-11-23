@@ -15,8 +15,9 @@ I’m currently enhancing my expertise in Azure Architecture with .NET,<br>
 
 🌟 **Featured Projects**
 
-- [.NET Studies](https://github.com/stars/raphaelcordon/lists/net-studies) - List of small projects to practise specific functionalities and approached in C#/.Net
-- 
+- [In Progress](https://github.com/stars/raphaelcordon/lists/in-progress) - Projects I am currently working on
+- [.NET Studies](https://github.com/stars/raphaelcordon/lists/net-studies) - List of small projects to practise specific functionalities and approaches in C#/.Net
+- [Python](https://github.com/stars/raphaelcordon/lists/python) - List of old Python projects
 
 📈 **My GitHub Stats:**
 
