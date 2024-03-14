@@ -6,7 +6,16 @@
 Fluent in English and Portuguese, B1 in Italian and A1 in German.<br>
 &nbsp;&nbsp; I excel in bridging technology with business needs, leading agile teams, and driving projects to successful completion. 
 
-I’m currently enhancing my expertise in Azure Architecture with .NET,<br>
+I’m currently enhancing my expertise in Azure Architecture with .NET,<be>
+I'm also enrolled in the Bootcamp in Zürich to cover the following topics:
+
+  •	HTML5, CSS3, JavaScript (concluded)
+  •	React (concluded)
+  •	Python and Databases (ongoing)
+  •	Backend with Django
+  •	DevOps (Docker, CI/CD and Deployment)
+
+
 &nbsp; complementing my strong foundation in C#, ASP.NET, Python, and more.
 
 🔗 **Connect with me:**  
