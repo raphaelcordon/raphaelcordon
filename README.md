@@ -37,7 +37,7 @@ These courses complement my strong foundation in C#, ASP.NET, Python, React and 
 ### Featured Projects
 
 - [In Progress](https://github.com/stars/raphaelcordon/lists/in-progress) - Ongoing Projects
-- [.NET Studies](https://github.com/stars/raphaelcordon/lists/net-c) - C#/.NET Projects
+- [.NET / C#](https://github.com/stars/raphaelcordon/lists/net-c) - C#/.NET Projects
 - [Python](https://github.com/stars/raphaelcordon/lists/python) - Python Projects
 - [React](https://github.com/stars/raphaelcordon/lists/react) - React Projects
 
