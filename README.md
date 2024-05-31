@@ -31,15 +31,17 @@ These courses complement my strong foundation in C#, ASP.NET, Python, React and 
 
 ### **Connect with Me**
 
-- [LinkedIn](https://linkedin.com/in/raphael-cordon)
-- [GitHub](https://github.com/raphaelcordon)
+<a href="https://linkedin.com/in/raphael-cordon"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>&nbsp;
+<a href="https://github.com/raphaelcordon"><img src="https://img.shields.io/badge/GitHub-blue" alt="GitHub"></a>
 
 ### **Featured Projects**
 
-- [In Progress](https://github.com/stars/raphaelcordon/lists/in-progress) - Ongoing
-- [.NET &nbsp;/&nbsp; C#](https://github.com/stars/raphaelcordon/lists/net-c) - C#/.NET
-- [Python](https://github.com/stars/raphaelcordon/lists/python) - Python
-- [React](https://github.com/stars/raphaelcordon/lists/react) - React (front end)
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/stars/raphaelcordon/lists/in-progress"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></a>&nbsp;
+  <a href="https://github.com/stars/raphaelcordon/lists/net-c"><img src="https://img.shields.io/badge/.NET%20/%20C%23-blue" alt=".NET / C#"></a>&nbsp;
+  <a href="https://github.com/stars/raphaelcordon/lists/python"><img src="https://img.shields.io/badge/Python-blue" alt="Python"></a>&nbsp;
+  <a href="https://github.com/stars/raphaelcordon/lists/react"><img src="https://img.shields.io/badge/React%20(frontend)-blue" alt="React (frontend)"></a>
+</div>
 
 ### My GitHub Stats
 
