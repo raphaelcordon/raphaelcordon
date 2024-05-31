@@ -29,17 +29,17 @@ I recently completed two significant courses to enhance my skill set:
 
 These courses complement my strong foundation in C#, ASP.NET, Python, React and more.
 
-### Connect with Me
+### **Connect with Me**
 
 - [LinkedIn](https://linkedin.com/in/raphael-cordon)
 - [GitHub](https://github.com/raphaelcordon)
 
-### Featured Projects
+###** Featured Projects**
 
-- [In Progress](https://github.com/stars/raphaelcordon/lists/in-progress) - Ongoing Projects
-- [.NET / C#](https://github.com/stars/raphaelcordon/lists/net-c) - C#/.NET Projects
-- [Python](https://github.com/stars/raphaelcordon/lists/python) - Python Projects
-- [React](https://github.com/stars/raphaelcordon/lists/react) - React Projects
+- [In Progress](https://github.com/stars/raphaelcordon/lists/in-progress) - Ongoing
+- [.NET &nbsp;/&nbsp; C#](https://github.com/stars/raphaelcordon/lists/net-c) - C#/.NET
+- [Python](https://github.com/stars/raphaelcordon/lists/python) - Python
+- [React](https://github.com/stars/raphaelcordon/lists/react) - React (front end)
 
 ### My GitHub Stats
 
