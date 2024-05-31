@@ -2,7 +2,9 @@
 
 #### A Global IT Project Manager and Software Developer
 
-I bring over a decade of international experience, working in countries like Switzerland, Ireland, and Brazil. I'm fluent in English and Portuguese, with intermediate proficiency in Italian (B1) and basic knowledge of German (A1). My strengths are bridging technology with business needs, leading agile teams, and successfully delivering projects.
+I bring over a decade of international experience, working in countries like Switzerland, Ireland, and Brazil.<br>
+I'm fluent in English and Portuguese, with intermediate proficiency in Italian (B1) and basic knowledge of German (A1), ongoing :)<br>
+My strengths are bridging technology with business needs, leading agile teams, and successfully delivering projects.
 
 ### My Expertise and Skills
 
