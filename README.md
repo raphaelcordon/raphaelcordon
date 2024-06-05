@@ -4,7 +4,7 @@
 
 Skill set includes proficiency in C#, .NET, Python, Django, and Azure.<br>
 Supplemented by a foundation in front-end technologies like HTML5, CSS, JavaScript and React.
-<p>I am also familiar with CI/CD processes using Azure DevOps, Docker Containers, and basic cloud infrastructure.</p>
+<p>Also familiar with CI/CD processes using Azure DevOps, Docker Containers, and basic cloud infrastructure.</p>
 
 
 ### **Connect with Me**
