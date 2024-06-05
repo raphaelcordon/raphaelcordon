@@ -1,11 +1,9 @@
 # Hi there, I'm Raphael Cordon! 🤓
 
-## Software Developer and IT Project Manager
+## Rounded IT professional with experience in Software Development and Project Management.
 
-I am a rounded IT professional with experience in Software Development and Project Management.<be>
-
-My diverse skill set includes proficiency in C#, .NET, Python, Django, and Azure, <br>
-supplemented by a foundation in front-end technologies like HTML5, CSS, JavaScript and React.
+Skill set includes proficiency in C#, .NET, Python, Django, and Azure.<br>
+Supplemented by a foundation in front-end technologies like HTML5, CSS, JavaScript and React.
 <p>I am also familiar with CI/CD processes using Azure DevOps, Docker Containers, and basic cloud infrastructure.</p>
 
 
