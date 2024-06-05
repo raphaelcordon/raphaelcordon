@@ -1,47 +1,137 @@
 # Hi there, I'm Raphael Cordon! 🤓
 
-#### A Global IT Project Manager and Software Developer
+#### Software Developer and IT Project Manager
 
-I bring over a decade of international experience, working in countries like Switzerland, Ireland, and Brazil.<br>
-I'm fluent in English and Portuguese, with intermediate proficiency in Italian (B1) and basic knowledge of German (A1), ongoing :)<br>
-My strengths are bridging technology with business needs, leading agile teams, and successfully delivering projects.
+I am a rounded IT professional with experience in Software Development and Project Management.<be>
 
-### My Expertise and Skills
+My diverse skill set includes proficiency in C#, .NET, Python, Django, and Azure, <br>
+supplemented by a foundation in front-end technologies like HTML5, CSS, JavaScript and React.<br>
+I am also familiar with CI/CD processes using Azure DevOps, Docker Containers, and basic cloud infrastructure.
 
-I recently completed two significant courses to enhance my skill set:
-
-**Post-Degree in Architecture of .NET Systems with Azure**
-- ASP.NET Core Backend Development
-- Microsoft Azure Fundamentals
-- Virtual Machines and Containers
-- DevOps Practices
-- Domain-Driven Design (DDD)
-- Quality and Safety in Development
-- Microservices and Serverless Architectures
-- Microservices Architecture
-
-**Full-Stack Web Development Bootcamp in Zürich**
-- HTML5, CSS3, JavaScript
-- React
-- Python and Databases
-- Backend Development with Django
-- DevOps (Docker, CI/CD, and Deployment)
-
-These courses complement my strong foundation in C#, ASP.NET, Python, React and more.
 
 ### **Connect with Me**
 
-<a href="https://linkedin.com/in/raphael-cordon"><img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn"></a>&nbsp;
-<a href="https://github.com/raphaelcordon"><img src="https://img.shields.io/badge/GitHub-blue" alt="GitHub"></a>
+<a href="https://linkedin.com/in/raphael-cordon"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/raphaelcordon"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 
-### **Featured Projects**
 
-<div style="display: flex; gap: 10px;">
-  <a href="https://github.com/stars/raphaelcordon/lists/in-progress"><img src="https://img.shields.io/badge/In%20Progress-blue" alt="In Progress"></a>&nbsp;
-  <a href="https://github.com/stars/raphaelcordon/lists/net-c"><img src="https://img.shields.io/badge/.NET%20/%20C%23-blue" alt=".NET / C#"></a>&nbsp;
-  <a href="https://github.com/stars/raphaelcordon/lists/python"><img src="https://img.shields.io/badge/Python-blue" alt="Python"></a>&nbsp;
-  <a href="https://github.com/stars/raphaelcordon/lists/react"><img src="https://img.shields.io/badge/React%20(frontend)-blue" alt="React (frontend)"></a>
+### **Featured Projects** (click below)
+
+<div style="display: flex; gap: 12px;">
+* <a href="https://github.com/stars/raphaelcordon/lists/in-progress"><img src="https://img.shields.io/badge/IN%20PROGRESS-blue" alt="IN PROGRESS"></a><br>
+* <a href="https://github.com/stars/raphaelcordon/lists/net-c"><img src="https://img.shields.io/badge/.NET%20/%20C%23-blue" alt=".NET / C#"></a><br>
+* <a href="https://github.com/stars/raphaelcordon/lists/python"><img src="https://img.shields.io/badge/PYTHON-blue" alt="PYTHON"></a><br>
+* <a href="https://github.com/stars/raphaelcordon/lists/react"><img src="https://img.shields.io/badge/REACT%20(frontend)-blue" alt="REACT (frontend)"></a>
 </div>
+
+### **Knowledge per segment**
+
+### Backend
+<table>
+  <tr>
+    <td>
+      <div>
+        <div>C#</div>
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>.Net</div>
+        <img src="https://skillicons.dev/icons?i=dotnet" alt=".Net" />
+      </div>
+    </td>
+    <td></td>
+    <td>
+      <div>
+        <div>Python</div>
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>Django</div>
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>Flask</div>
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+### Frontend
+<table>
+  <tr>
+    <td>
+      <div>
+        <div>React</div>
+        <img src="https://skillicons.dev/icons?i=react" alt="React" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>React</div>
+        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>JS</div>
+        <img src="https://skillicons.dev/icons?i=js" alt="JS" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>HTML</div>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>CSS</div>
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>Tailwind</div>
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" />
+      </div>
+    </td>
+    <td>
+      <div>
+        <div>Bootstrap</div>
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+### Database
+<table>
+  <tr>
+    <td>
+      <div>SQL</div>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="SQL" />
+    </td>
+  </tr>
+</table>
+
+### Infra / Cloud
+<table>
+  <tr>
+    <td>
+      <div>Azure</div>
+      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+    </td>
+  </tr>
+</table>
+
 
 ### My GitHub Stats
 
