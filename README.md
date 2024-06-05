@@ -24,6 +24,14 @@ I am also familiar with CI/CD processes using Azure DevOps, Docker Containers, a
 * <a href="https://github.com/stars/raphaelcordon/lists/react"><img src="https://img.shields.io/badge/REACT%20(frontend)-blue" alt="REACT (frontend)"></a>
 </div>
 
+### My GitHub Stats
+
+<div>
+  <a href="https://github.com/raphaelcordon">
+    <img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcordon&theme=github_dark">
+  </a>
+</div>
+
 ### **Knowledge per segment**
 
 ### Backend
@@ -131,14 +139,5 @@ I am also familiar with CI/CD processes using Azure DevOps, Docker Containers, a
     </td>
   </tr>
 </table>
-
-
-### My GitHub Stats
-
-<div>
-  <a href="https://github.com/raphaelcordon">
-    <img width=35% src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcordon&theme=github_dark">
-  </a>
-</div>
 
 I'm excited to apply my enhanced skills to new projects and collaborations. Let's connect and create something amazing!
