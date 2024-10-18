@@ -3,8 +3,8 @@
 ## Well-rounded IT professional with experience in Software Development and Project Management.
 
 Skill set includes proficiency in:<br>
-BACKEND: C#, .NET, Python, Django, and Azure.<br>
-FRONTEND: React.Js, HTML5, CSS3 and JavaScript.
+- <b>Backend</b>: C#, .NET, Python, Django, and Azure.<br>
+- <b>Frontend</b>: React.Js, HTML5, CSS3 and JavaScript.
 <p>Also familiar with CI/CD processes using Azure DevOps, Docker Containers, and basic cloud infrastructure.</p>
 
 
